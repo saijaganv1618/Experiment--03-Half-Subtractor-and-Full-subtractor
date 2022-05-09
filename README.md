@@ -64,35 +64,34 @@ endmodule
 
 Half subtractor truth table:
 
-https://user-images.githubusercontent.com/94154683/165960966-add01287-f6c2-40f8-89a0-ecbb01d2c401.PNG![image](https://user-images.githubusercontent.com/59290560/166865517-1d49102d-6ddf-4bc7-938f-32cbaa75f582.png)
+![ha tt](https://user-images.githubusercontent.com/59290560/167336633-faa2a0a9-65d5-4c0a-a554-52554e848e12.png)
+
 
 
 Full subtractor truth table:
+![fs tt](https://user-images.githubusercontent.com/59290560/167336667-dc12d0f8-15e4-4594-a7ef-314da17df4f7.png)
 
-https://user-images.githubusercontent.com/94154683/165961092-49a612d3-6757-4a01-a496-a7fe1ebc7cd0.PNG![image](https://user-images.githubusercontent.com/59290560/166865529-36f1e021-ee19-44bb-b2b4-6141a92988e8.png)
+
 
 
 RTL realization Output:
 
 Half subtractor
-https://user-images.githubusercontent.com/94154683/165957424-ebb2ec3d-3093-4093-8687-b9d7a29e8c2b.PNG![image](https://user-images.githubusercontent.com/59290560/166865549-8b27b1e8-f4a1-4b5a-b36a-7880df430b99.png)
+![rtl ha](https://user-images.githubusercontent.com/59290560/167336680-d08b0a82-68c6-4574-8b81-5b304eb992d3.png)
 
 
 
 Full subtractor:
-https://user-images.githubusercontent.com/94154683/165957561-28454d9c-2339-4b0c-aeb6-5ca8149e9500.PNG![image](https://user-images.githubusercontent.com/59290560/166865563-8b750a26-d4f8-43e0-ad5f-6f47e74950fa.png)
-
-
-
+![rtl fa](https://user-images.githubusercontent.com/59290560/167336690-c1de5449-4027-4f2b-80a0-41ad4c9509e7.png)
 Timing Diagram
 
 Half subtractor:
-https://user-images.githubusercontent.com/94154683/165957699-9a6c62b3-3236-43d0-8785-c1879b69059f.PNG![image](https://user-images.githubusercontent.com/59290560/166865573-48c082b4-cac5-42d0-a35a-0207a8e4baa1.png)
+![tt ha](https://user-images.githubusercontent.com/59290560/167336715-06cded5e-c995-41bf-8d09-6ecf1677ebd3.png)
 
 
 
 Full subtractor:
-https://user-images.githubusercontent.com/94154683/166411157-33256604-b48e-4ae4-b4b8-b38277444f91.png![image](https://user-images.githubusercontent.com/59290560/166865590-ef122add-ad37-431b-b8f1-23cc976f5066.png)
+![fa tt](https://user-images.githubusercontent.com/59290560/167336734-26bbde42-2acd-408b-8f10-25372b7d5d6c.png)
 
 
 Result: 
